@@ -1,0 +1,12 @@
+1) è un sistema usato per assegnare nomi simbolici agli indirizzi IP, e per per capire su che server vengono elaborati.
+
+2) Internet è una rete virtuale composta da numerosi router collegati tra loro.
+
+3) I messaggi vengono divisi in pacchetti e possono essere trasmessi dal router su canali diversi, per poi venire riassemblati alla fine.
+
+4) un insieme di regole per la trasmissione dei dati.
+
+5) il linguaggio di programmazione istruisce la macchina nel compiere determinati calcoli o istruzioni, il linguaggio di markup è un documento di testo che viene interpretato dal browser e serve per trascrivere layout e caratteristiche grafiche della pagina.
+
+6) LocalStorage e SessionStorage, il localStorage è un tipo di memoria che permette di salvare dei dati che rimarranno salvati e presenti anche dopo aver chiuso e riavviato il browser.
+Il sessionStorage è un tipo di memoria che permette di avere i dati salvati solo durante l'esecuzione della sessione, viene cancellata al chiudersi o al riavvio del browser.

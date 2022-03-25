@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Harry Potter</title>
+    <link href="css/main.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=Lobster&family=Roboto:ital,wght@0,100;0,900;1,100&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="https://brandslogos.com/wp-content/uploads/images/large/harry-potter-logo-1.png"/>
+            </div>
+            <ul>
+                <li>
+                    <a href="home.html">Home</a>
+                </li>
+
+                <li>
+                    <a href="schedaTecnica.html">Scheda Film</a>
+                </li>
+
+                <li>
+                    <a href="attori.html">Attori</a>
+                </li>
+
+                <li>
+                    <a href="newsLetter.html">Newsletter</a>
+                </li>
+
+            </ul>
+        </nav>
+    </header>
+   
+    <main>
+        <h1>
+            GUARDA IL TRAILER!
+        </h1>
+        <iframe width="906" height="385" src="https://www.youtube.com/embed/_G16VGNL73k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </main>
+    <footer>
+        <p>
+            &copy; Valentina Trebbi
+        </p>
+    </footer>
+
+    <script>
+        if (localStorage.length > 0) {
+            let name = localStorage.getItem('name');
+
+            alert('Benvenuto/a ' + name + '!');
+        }
+    </script>
+</body>
+</html>
